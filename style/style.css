@@ -1,0 +1,39 @@
+html,body,div,span,object,iframe,h1,h2,h3,p,blockquote,pre,a,code,em,img,small,strong,ol,ul,li,fieldset,form,label,legend,table,caption,article,aside,canvas,figure,figcaption,footer,header,menu,nav,section,summary,time,audio,video{border:0;font-size:100%;font:inherit;margin:0;padding:0}
+article,aside,details,figcaption,figure,footer,header,menu,nav,section{display:block}
+body{line-height:1}
+ol,ul{list-style:none}
+blockquote,q{quotes:none}
+blockquote:before,blockquote:after,q:before,q:after{content:none}
+table{border-collapse:collapse;border-spacing:0}
+.none{display:none}
+.block{display:block}
+html,body{background:#fff}
+body{width:1000px;margin:20px auto 20px;display:block}
+#logo{position:absolute;z-index:2;margin-left:350px;top:150px}
+#popup{width:521px;height:521px;background:url("../img/popup.png") no-repeat;position:absolute;top:50%;left:50%;margin-left:-260px;margin-top:-260px;display:none;opacity:0;z-index:6;}
+#popup img{margin-left:55px;margin-top:50px}
+#popup p{margin-left:60px;font-size:20px;font-family:'Open Sans','Helvetica','Arial',sans-serif;font-weight:300;line-height:30px;margin-top:50px;width:400px}
+#blur{width:100%;height:100%;background:#fff;position:fixed;opacity:0;top:0;left:0;z-index:5;display:none}
+#imatge_viulestiu{background:url("../img/fondo.png") no-repeat;display:block;width:1000px;height:676px;opacity:0;-webkit-transform:scale(.8);-moz-transform:scale(.8);-ms-transform:scale(.8);-o-transform:scale(.8);transform:scale(.8);position:relative;margin-top:80px}
+.spot{display:block;position:absolute;}
+.spot img{position:relative;opacity:0}
+.spot#spot_nit_dansa_aerea{width:231px;height:145px;margin-left:74px;}
+.spot#spot_nit_dansa_aerea img{top:5px;margin-left:-14px}
+.spot#spot_festival_poesia{width:165px;height:171px;margin-left:34px;margin-top:159px;}
+.spot#spot_festival_poesia img{top:0;left:-8px}
+.spot#spot_melodia{width:161px;height:203px;margin-left:336px;margin-top:49px;}
+.spot#spot_melodia img{top:18px;left:-10px}
+.spot#spot_tarda_de_circ{width:165px;height:181px;margin-top:104px;margin-left:603px;}
+.spot#spot_tarda_de_circ img{top:-21px;left:12px}
+.spot#spot_pop_jardi{width:165px;height:165px;margin-left:40px;margin-top:388px;}
+.spot#spot_pop_jardi img{top:-4px;left:11px}
+.spot#spot_festa_cervesa{width:140px;height:198px;margin-left:264px;margin-top:285px;}
+.spot#spot_festa_cervesa img{top:-6px;left:10px}
+.spot#spot_tumtum{width:253px;height:129px;margin-left:278px;margin-top:493px;}
+.spot#spot_tumtum img{top:-41px;left:-11px}
+.spot#spot_cova_foc{width:165px;height:165px;margin-top:303px;margin-left:460px;}
+.spot#spot_cova_foc img{top:-19px;left:-57px}
+.spot#spot_festival_preview{width:254px;height:129px;margin-top:332px;margin-left:675px;}
+.spot#spot_festival_preview img{top:9px;left:7px}
+.spot#spot_artistes_prat{width:164px;height:197px;margin-top:58px;margin-left:803px;}
+.spot#spot_artistes_prat img{top:12px;left:-26px}
